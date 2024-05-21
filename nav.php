@@ -47,7 +47,7 @@ setTimeout(hideLoader, 1000); // Hides the loader after 3 seconds
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="dashboard.php">Kape Zebra</a>
+                <a class="navbar-brand" href="index.php">Kape Zebra</a>
             </div>
         </div>
     </nav>

@@ -36,7 +36,7 @@
    
 </head>
 
-<body class="theme-blue">
+<body class="theme-amber" style="background-image: url(assests/pics/SignUpPage.jpg);" >
     <?php include ("nav.php");   ?>
     <section class="content">
         <div class="container-fluid">
@@ -80,15 +80,6 @@
     </tr>
                                     </tr>
                                 </thead>
-
-                                <tfoot>
-                                        <tr>
-                                        <th>Item ID</th>
-        <th>Item Qty</th>
-        <th>Item Price</th>
-        <th>Item Name</th>
-                                            </tr>
-                                </tfoot>
 
                                 <tbody>
                                         <?php
@@ -157,14 +148,6 @@
                                     </tr>
                                 </thead>
 
-                                <tfoot>
-                                <th>Order ID</th>
-                                    <th>Order details</th>
-        <th>Item ID</th>
-        <th>Cashier ID</th>
-
-                                            </tr>
-                                </tfoot>
 
                                 <tbody>
                                         <?php

@@ -7577,6 +7577,7 @@ fieldset[disabled] .form-control {
       cursor: default;
       display: block;
       position: relative;
+      list-style: none;
       top: 25px; }
       .sidebar .user-info .info-container .name {
         white-space: nowrap;

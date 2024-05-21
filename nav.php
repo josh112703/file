@@ -61,7 +61,7 @@ setTimeout(hideLoader, 1000); // Hides the loader after 3 seconds
                     <img src="includes/images/user.png" width="48" height="48" alt="User" />
                 </div>
                 <div class="info-container"> 
-                            <li><a href="logout.php"><i class="material-icons">input</i>Sign Out</a></li>
+                            <li><a href="logout.php" style="color: #fff;   text-decoration: none;"><i class="material-icons" style="color: #fff;   text-decoration: none;" >input</i>Sign Out</a></li>
                     </div>
                 </div>
             </div>
